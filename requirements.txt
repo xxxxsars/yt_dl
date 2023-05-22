@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.2
 moviepy==1.0.1
 pytube3==9.6.4
-requests==2.23.0
+requests==2.31.0
 
